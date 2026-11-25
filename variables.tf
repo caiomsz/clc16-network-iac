@@ -25,5 +25,4 @@ variable "priv_subnet_1a_name" {
 
 variable "priv_subnet_1c_name" {
     type = string
-    d
-}efault = "terraform-private-subnet-1c"
+    default = "terraform-private-subnet-1c"
